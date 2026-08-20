@@ -23,11 +23,11 @@ Esta mecánica obliga al jugador a identificar la carga de cada enemigo y elegir
  
 | Menú principal | Nivel 1 — Residuos |
 |:---:|:---:|
-| ![Menú principal](assets/screenshots/menu.png) | ![Nivel 1](assets/screenshots/nivel1.png) |
+| ![Menú principal](screenshots/menu.png) | ![Nivel 1](screenshots/nivel1.png) |
  
 | Nivel 2 — Energía | Nivel 3 — Agua |
 |:---:|:---:|
-| ![Nivel 2](assets/screenshots/nivel2.png) | ![Nivel 3](assets/screenshots/nivel3.png) |
+| ![Nivel 2](screenshots/nivel2.png) | ![Nivel 3](screenshots/nivel3.png) |
  
 
  
