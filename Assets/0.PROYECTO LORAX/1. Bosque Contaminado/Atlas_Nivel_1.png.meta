@@ -1,0 +1,1161 @@
+fileFormatVersion: 2
+guid: 53d8d7e3f08c7c341b56d5f0976943f9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oso
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1880
+        width: 110
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24b21e5888979a49a09d4e93176723c
+      internalID: 853394096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol_Grande
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1699
+        width: 340
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c346509804060bf438cc6fd1b9a03c4b
+      internalID: -934538296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1765
+        width: 193
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1263d59c3e01a749ab7527a18a350e8
+      internalID: 822744899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbol_Peque\xF1o"
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1852
+        width: 126
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44febf3543abce4592f1a9de6b189e2
+      internalID: -82521858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ave
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1943
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9a6edf83f566b44ae180b73283aaf5
+      internalID: 23552041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paloma
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1943
+        width: 129
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37befcc57fe0e0342894fce04c1dbbf7
+      internalID: -797395714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tronco_Cortado
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1912
+        width: 163
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546625dbcedbb9e498aba0661de00d6c
+      internalID: -1679545391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbusto
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1882
+        width: 173
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0392af415b48af04090dd2a3861a978e
+      internalID: 1204763445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lata_Roja
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1925
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2472f32dce5e4f47999c206ee0f4f7a
+      internalID: 175587014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lata_Azul
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1924
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5885a46db2d624046a9c4db08c1997b8
+      internalID: -980053956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botella_Verde
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1922
+        width: 50
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3613d6e6bf7af7943a5e03daefc027f0
+      internalID: -214047139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malesa
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1916
+        width: 164
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7f8f2a8cf9d164aad374658452267e
+      internalID: -1221606560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Hoja
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1459
+        width: 247
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd773529d652c54428e298d00e5934d1
+      internalID: 591324468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Botella
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1216
+        width: 244
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b2a22a2fbb73a428df059868d93a93
+      internalID: 1772329147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Bolsa
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 987
+        width: 236
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b39e992763038478f6da35c5b2385a
+      internalID: -170634868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compuerta_Cerrada
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 753
+        width: 245
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b44219904ac7bb48a68988402f93379
+      internalID: 832612012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manzana_Puzzle
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 495
+        width: 246
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8365ad1247945554dbd46e1c9e5be809
+      internalID: 721871460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botella_Puzzle
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 480
+        width: 240
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b9c7e9ed91dbb47b7c141b05386f41
+      internalID: 491445628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servilleta_Puzzle
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 491
+        width: 248
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351dcff9df790624eb8c4f184d6ec0f6
+      internalID: -459265384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 277
+        width: 331
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9282551415dcbb479b8e5979480b551
+      internalID: 1047568207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton_Presionado
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 111
+        width: 350
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999010004297e5d48852596e22e8b455
+      internalID: 2140962051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caja
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 99
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94d619d3b245c148820e605917295cb
+      internalID: 195588152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manivela
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1465
+        width: 107
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d98f249bdf5a4d4084d2abece44e88e
+      internalID: 1031609889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manivela_S
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1539
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fd3d0dcddaf4542b7ff8ebb934b0e0
+      internalID: -1202567918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compuerta_Abierta
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1212
+        width: 250
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b75ecc4658946b418cf28eeb1256d26
+      internalID: -1485010860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compuerta_Semiabierta
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 970
+        width: 253
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8205fde46bf3117439107be99d513d3b
+      internalID: 1094081000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Fase1
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1585
+        width: 291
+        height: 156
+      alignment: 9
+      pivot: {x: 0.02793795, y: 0.023724679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7c2ae98717591479a2f6e137f5c744
+      internalID: 30778533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Fase2
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1592
+        width: 329
+        height: 138
+      alignment: 9
+      pivot: {x: 0.03359531, y: 0.055059902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea88e6f93ade89c498bafce8998951f8
+      internalID: 1277335041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Fase3
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1595
+        width: 312
+        height: 105
+      alignment: 9
+      pivot: {x: 0.037287787, y: 0.07413039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa6bf3783b367a4eb97025797d5c9c8
+      internalID: -678280488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Abajo
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1595
+        width: 309
+        height: 77
+      alignment: 9
+      pivot: {x: 0.03159567, y: 0.1179326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1415faf6e09374084aa777eb5b0e77
+      internalID: -1505468707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tronco_Acostado
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1772
+        width: 331
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29515e1e1cbecd84484fd5c7acdfb5b4
+      internalID: -403847195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolsa
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1793
+        width: 153
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3222f55d8d4d26e4e9977961406e4d0f
+      internalID: 1197428013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarro_Verde_Abierto
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1297
+        width: 195
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecc655e4cc37e64cbcf181acef4a249
+      internalID: 673513670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarro_Negro_Abierto
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1297
+        width: 198
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4703d4f7f85e040916ab90df5170b7
+      internalID: 1835967920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarro_Blanco_Abierto
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1298
+        width: 196
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac6b477e32137145ab01a112a9d3557
+      internalID: 696168250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarro_Verde_Cerrado
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 998
+        width: 208
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a69eea3cc1dbbb41a6e301961c2c222
+      internalID: -403575611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarro_Negro_Cerrado
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1000
+        width: 213
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f41abe5abb5a064e8fdf4cb224e4f54
+      internalID: -1525073701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarro_Blanco_Cerrado
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1002
+        width: 207
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b39375ee08b90a4abd6fbc0f1ae8ecf
+      internalID: -913489485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuberia_Toxica_Inicio
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1305
+        width: 372
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e882a7607d9b4782d57756b1fe963
+      internalID: -930949661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuberia_Toxica_Fin
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1161
+        width: 380
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec81a1c964076d745a71d97532bbe7bc
+      internalID: 2095345522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuberia_Limpia
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1009
+        width: 375
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144e1bf5ac86adc4f8ae0eca218bcc29
+      internalID: 673499734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agua
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 685
+        width: 738
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0ff7f98241d0f4d905380c67025de4
+      internalID: -1747566727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Con_Cesped
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 293
+        width: 924
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7889161074362f47bb6d9588174a838
+      internalID: -542863300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Seco
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 46
+        width: 930
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e11057159c367c4fa072257db7e7fe1
+      internalID: 793627681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tabla_Puente
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 220
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3d2441b5435584baa4b5ed78950f65
+      internalID: 1698322968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letrero
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 761
+        width: 571
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d7c8c63b65e64fb525113eaa7c40c
+      internalID: -1977672678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Bonito
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 21
+        width: 1003
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa093738e1d83164ea553ded34e9ca53
+      internalID: 1119437000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Agua: -1747566727
+      Arbol: 822744899
+      Arbol_Grande: -934538296
+      "Arbol_Peque\xF1o": -82521858
+      Arbusto: 1204763445
+      Ave: 23552041
+      Bolsa: 1197428013
+      Botella_Puzzle: 491445628
+      Botella_Verde: -214047139
+      Boton: 1047568207
+      Boton_Presionado: 2140962051
+      Caja: 195588152
+      Compuerta_Abierta: -1485010860
+      Compuerta_Cerrada: 832612012
+      Compuerta_Semiabierta: 1094081000
+      Lata_Azul: -980053956
+      Lata_Roja: 175587014
+      Letrero: -1977672678
+      Malesa: -1221606560
+      Manivela: 1031609889
+      Manivela_S: -1202567918
+      Manzana_Puzzle: 721871460
+      Marco_Bolsa: -170634868
+      Marco_Botella: 1772329147
+      Marco_Hoja: 591324468
+      Oso: 853394096
+      Paloma: -797395714
+      Puente_Abajo: -1505468707
+      Puente_Fase1: 30778533
+      Puente_Fase2: 1277335041
+      Puente_Fase3: -678280488
+      Servilleta_Puzzle: -459265384
+      Tabla_Puente: 1698322968
+      Tarro_Blanco_Abierto: 696168250
+      Tarro_Blanco_Cerrado: -913489485
+      Tarro_Negro_Abierto: 1835967920
+      Tarro_Negro_Cerrado: -1525073701
+      Tarro_Verde_Abierto: 673513670
+      Tarro_Verde_Cerrado: -403575611
+      Terreno_Bonito: 1119437000
+      Terreno_Con_Cesped: -542863300
+      Terreno_Seco: 793627681
+      Tronco_Acostado: -403847195
+      Tronco_Cortado: -1679545391
+      Tuberia_Limpia: 673499734
+      Tuberia_Toxica_Fin: 2095345522
+      Tuberia_Toxica_Inicio: -930949661
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,56 @@
+## Carpetas generadas automáticamente por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+## Archivos de Asset Store con activos comprados
+/[Aa]ssets/AssetStoreTools*
+
+## Archivos autogenerados de Visual Studio / Rider / MonoDevelop
+.vs/
+.vscode/
+.idea/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+## Archivos generados por compilación de Unity
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+## Archivos de crash de Unity
+sysinfo.txt
+
+## Archivos de captura de errores
+crashlytics-build.properties
+
+## Metadatos de Rider
+*.sln.iml
+
+## Archivos ocultos del sistema operativo
+.DS_Store
+Thumbs.db
+
+## Archivos de configuración local de Unity Package Manager
+/[Aa]ssets/[Pp]ackages.meta

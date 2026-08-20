@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 5743244c59c15fa499cb3ee12c37f17a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Torreta_0
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 405
+        width: 261
+        height: 194
+      alignment: 9
+      pivot: {x: 0.39834675, y: 0.23982601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fe36fa41391294198aa06693b51cf4
+      internalID: -15505838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta_1
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 404
+        width: 258
+        height: 195
+      alignment: 9
+      pivot: {x: 0.40384927, y: 0.24571784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21e9d0967956b148bf512b648582e24
+      internalID: -457876554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta_2
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 401
+        width: 257
+        height: 218
+      alignment: 9
+      pivot: {x: 0.40215257, y: 0.23382275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b160f7401f4994bbc8f6bf6b957ae3
+      internalID: -666391992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta_3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 404
+        width: 265
+        height: 225
+      alignment: 9
+      pivot: {x: 0.51538837, y: 0.20993462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8597183e2f26940b02d2b66bfdeb99
+      internalID: 1979335635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 399
+        width: 334
+        height: 242
+      alignment: 9
+      pivot: {x: 0.554679, y: 0.21713409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcb9f8322bb6314ea7d6858002323d4
+      internalID: -1326022682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta_Destruida
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 120
+        width: 260
+        height: 211
+      alignment: 9
+      pivot: {x: 0.4214454, y: 0.2473713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd174a8a8913ab64c908e75d0b511d11
+      internalID: 462662827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta_Destruida_2
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 117
+        width: 270
+        height: 217
+      alignment: 9
+      pivot: {x: 0.41715044, y: 0.24202563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2070d82a96d800b4b937e895edcf9f32
+      internalID: 2067690114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta_Destruida_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 118
+        width: 318
+        height: 222
+      alignment: 9
+      pivot: {x: 0.45715812, y: 0.22399187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2ac3b5d0edeae489875f1778309a1d
+      internalID: -2063835855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta_Destruida_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 117
+        width: 265
+        height: 251
+      alignment: 9
+      pivot: {x: 0.48059106, y: 0.2240704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2d8937d37d23243b696cabe002aebf
+      internalID: 2089396445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta_Destruida_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 112
+        width: 266
+        height: 235
+      alignment: 9
+      pivot: {x: 0.4984191, y: 0.25766778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1d18d9491fef744822227d628a061f
+      internalID: 1856469856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Torreta_0: -15505838
+      Torreta_1: -457876554
+      Torreta_2: -666391992
+      Torreta_3: 1979335635
+      Torreta_4: -1326022682
+      Torreta_Destruida: 462662827
+      Torreta_Destruida_2: 2067690114
+      Torreta_Destruida_3: -2063835855
+      Torreta_Destruida_4: 2089396445
+      Torreta_Destruida_5: 1856469856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
