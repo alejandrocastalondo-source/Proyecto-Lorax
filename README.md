@@ -51,7 +51,7 @@ Este proyecto toma una **leve inspiración** del universo de la película *El Lo
 - Paola Andrea Carmona Salazar
 - Alejandro Lopez Dominguez
 - Nicolas Martinez Cardona
-- Isabella Serna Torres
+- Isabella Serna Torres https://github.com/IsabellaSernaT
 ## ⚠️ Aviso de uso
  
 Este repositorio se publica **sin licencia**. Esto significa que, por defecto, **todos los derechos quedan reservados a los autores**. No está permitido:
