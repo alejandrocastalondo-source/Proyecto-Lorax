@@ -37,6 +37,39 @@ Esta mecánica obliga al jugador a identificar la carga de cada enemigo y elegir
 - **Lenguaje:** C#
 - **Tipo de proyecto:** Videojuego 2D
 - **Contexto:** Proyecto académico universitario (semestre 2026-1)
+
+- ##  Cómo ejecutar el proyecto
+
+### Requisitos previos
+
+- [Unity Hub](https://unity.com/download) instalado
+- Unity Editor **2022.3.62f3** (o una versión compatible de la serie 2022 LTS)
+- Git instalado en tu equipo
+
+### Pasos
+
+1. Clona el repositorio:
+```bash
+   git clone https://github.com/alejandrocastalondo-source/Proyecto-Lorax.git
+```
+2. Abre **Unity Hub** → pestaña **Projects** → **Add** → selecciona la carpeta `Proyecto-Lorax` que acabas de clonar.
+3. Si no tienes instalada la versión 2022.3.62f3, Unity Hub te lo indicará y te permitirá instalarla desde ahí mismo.
+4. Abre el proyecto haciendo click en él dentro de Unity Hub. La primera vez puede tardar unos minutos mientras Unity importa todos los assets.
+5. En la ventana **Project**, dentro de `Assets/Scenes/`, abre la escena del **MainMenu** (doble clic sobre ella).
+6. Presiona el botón **Play** en la parte superior del editor para ejecutar el juego.
+
+##  Estructura del proyecto
+
+```
+Proyecto-Lorax/
+├── Assets/              # Escenas, scripts, sprites, prefabs, audio y demás assets del juego
+├── Packages/            # Dependencias gestionadas por el Unity Package Manager
+├── ProjectSettings/     # Configuración del proyecto (input, física, calidad gráfica, etc.)
+├── screenshots/         # Capturas de pantalla usadas en este README
+├── .gitignore           # Archivos y carpetas excluidos del control de versiones
+├── .vsconfig            # Configuración del editor de código (Visual Studio)
+└── README.md            # Este archivo
+```
 ##  Inspiración y aclaración
  
 Este proyecto toma una **leve inspiración** del universo de la película *El Lorax* únicamente como referencia estética y temática para transmitir un mensaje de conciencia ambiental a los niños.
@@ -48,7 +81,7 @@ Este proyecto toma una **leve inspiración** del universo de la película *El Lo
 - Daniel Castañeda Londoño
 ##  Coautores
  
-- Paola Andrea Carmona Salazar
+- Paola Andrea Carmona Salazar https://github.com/paolaandrea3883-blip
 - Alejandro Lopez Dominguez
 - Nicolas Martinez Cardona
 - Isabella Serna Torres https://github.com/IsabellaSernaT
