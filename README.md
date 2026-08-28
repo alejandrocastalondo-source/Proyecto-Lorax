@@ -38,7 +38,7 @@ Esta mecánica obliga al jugador a identificar la carga de cada enemigo y elegir
 - **Tipo de proyecto:** Videojuego 2D
 - **Contexto:** Proyecto académico universitario (semestre 2026-1)
 
-- ##  Cómo ejecutar el proyecto
+ ##  Cómo ejecutar el proyecto
 
 ### Requisitos previos
 
