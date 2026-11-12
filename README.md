@@ -78,12 +78,12 @@ Este proyecto toma una **leve inspiración** del universo de la película *El Lo
  
 ##  Autor
  
-- Daniel Castañeda Londoño
+- Daniel Castañeda Londoño https://github.com/alejandrocastalondo-source
 ##  Coautores
  
 - Paola Andrea Carmona Salazar https://github.com/paolaandrea3883-blip
-- Alejandro Lopez Dominguez
-- Nicolas Martinez Cardona
+- Alejandro Lopez Dominguez https://github.com/Parzival0772
+- Nicolas Martinez Cardona https://github.com/Nico752-M
 - Isabella Serna Torres https://github.com/IsabellaSernaT
 ## ⚠️ Aviso de uso
  
